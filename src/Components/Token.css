@@ -1,0 +1,61 @@
+.container {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  form {
+  padding: 1%;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input {
+    padding: 8px;
+    width: 10vw;
+    box-sizing: border-box;
+  }
+  
+  button {
+    padding: 10px 15px;
+    margin: 10px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .tokens-container {
+    margin-top: 20px;
+  }
+  
+  .token-row {
+    margin-bottom: 10px;
+  }
+  
+  .token {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .blue {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .red {
+    background-color: #dc3545;
+    color: white;
+  }
+  
