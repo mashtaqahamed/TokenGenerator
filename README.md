@@ -36,3 +36,7 @@ Red Tokens Per Row
 # Technologies Used
 
 - React.js, HTML, CSS ,JavaScript.
+
+# Project Deployed Link
+
+> https://66e2bc156c00023d3ccc15e7--hilarious-paletas-ef1566.netlify.app/
